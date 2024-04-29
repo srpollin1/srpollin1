@@ -2,8 +2,7 @@
 <h3 align="center">Fullstack Developer 📚 | React 👨‍💻 | Javascript 💛 | Php 🐘 | Python 🐍</h3>
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  </a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
